@@ -7,3 +7,4 @@
 ------------------------------------------------
 
 PLAY NOW AT : Pixlect-Studio.github.io/Flight-Sim/
+Or go to projects in www.pixlect-studios.com 
